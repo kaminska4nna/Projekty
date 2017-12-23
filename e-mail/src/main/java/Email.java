@@ -13,6 +13,8 @@ public class Email {
         this.lastName = lastName;
         this.department = setDepartment();
         System.out.println("DEP : " +this.department);
+        this.password= randomPassword(8);
+        System.out.println(this.password);
     }
 
 
@@ -26,5 +28,15 @@ public class Email {
         }else if (depChoice==3){return "Accounting";}
         else {return "";}
 
+    }
+
+    private String randomPassword(int lenght){
+        String passwordSet="ABCDEFGHIJKLMNOPRSTUWYXZ1234567890@!#$%";
+        char [] password = new char[lenght];
+        for(int i=0; i<lenght;i++){
+            int rand =(int)(Math.random()*passwordSet.length());
+            password [i] = passwordSet.charAt(rand);
+        }
+        return new String(password);
     }
 }
