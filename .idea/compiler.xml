@@ -6,6 +6,8 @@
       <module name="e-mail_test" target="1.8" />
       <module name="projects_main" target="1.8" />
       <module name="projects_test" target="1.8" />
+      <module name="studentDatabaseApp_main" target="1.8" />
+      <module name="studentDatabaseApp_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

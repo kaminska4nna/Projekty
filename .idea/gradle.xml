@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/e-mail" />
+            <option value="$PROJECT_DIR$/studentDatabaseApp" />
           </set>
         </option>
       </GradleProjectSettings>

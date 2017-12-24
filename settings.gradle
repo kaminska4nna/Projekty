@@ -1,3 +1,4 @@
 rootProject.name = 'projects'
 include 'e-mail'
+include 'studentDatabaseApp'
 

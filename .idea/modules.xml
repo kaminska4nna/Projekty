@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projects.iml" filepath="$PROJECT_DIR$/.idea/modules/projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/projects_main.iml" group="projects" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/projects_test.iml" group="projects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studentDatabaseApp.iml" filepath="$PROJECT_DIR$/.idea/modules/studentDatabaseApp.iml" group="studentDatabaseApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studentDatabaseApp/studentDatabaseApp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/studentDatabaseApp/studentDatabaseApp_main.iml" group="studentDatabaseApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studentDatabaseApp/studentDatabaseApp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/studentDatabaseApp/studentDatabaseApp_test.iml" group="studentDatabaseApp" />
     </modules>
   </component>
 </project>
