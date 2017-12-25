@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00844f74-13d6-46eb-aa77-417f30d28378" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="00844f74-13d6-46eb-aa77-417f30d28378" name="Default" comment="commit nr 4">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studentDatabaseApp/src/main/java/Student.java" afterPath="$PROJECT_DIR$/studentDatabaseApp/src/main/java/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java" afterPath="$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -32,24 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StudentDatabaseApp.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StudentDatabaseApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-              <folding>
-                <element signature="e#75#76#0" expanded="true" />
-                <element signature="e#117#118#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="92">
+              <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -654,8 +648,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="y" value="40" />
+    <option name="x" value="739" />
+    <option name="y" value="33" />
     <option name="width" value="588" />
     <option name="height" value="496" />
   </component>
@@ -868,7 +862,7 @@
       <updated>1514039881043</updated>
       <workItem from="1514039882943" duration="2683000" />
       <workItem from="1514043818904" duration="2454000" />
-      <workItem from="1514056384087" duration="1564000" />
+      <workItem from="1514056384087" duration="2836000" />
     </task>
     <task id="LOCAL-00001" summary="commit nr 2">
       <created>1514049001423</created>
@@ -884,14 +878,21 @@
       <option name="project" value="LOCAL" />
       <updated>1514056401623</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit nr 3">
+      <created>1514109684771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514109684771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6701000" />
+    <option name="totallyTimeSpent" value="7973000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="40" width="588" height="496" extended-state="0" />
+    <frame x="739" y="33" width="588" height="496" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -902,9 +903,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20448878" sideWeight="0.521978" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20448878" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20448878" sideWeight="0.47802198" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.485348" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917705" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917705" sideWeight="0.492674" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15567766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -927,12 +928,40 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit nr 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit nr 2" />
+    <MESSAGE value="commit nr 3" />
+    <MESSAGE value="commit nr 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit nr 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1019,22 +1048,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/Student.java">
+    <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/StudentDatabaseApp.java">
+    <entry file="file://$PROJECT_DIR$/studentDatabaseApp/src/main/java/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="35" lean-forward="false" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-          <folding>
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
