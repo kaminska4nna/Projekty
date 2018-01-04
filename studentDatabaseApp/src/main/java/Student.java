@@ -45,5 +45,14 @@ public void enroll(){
     }while (1!=0);
 }
 
+public void viewBalance(){
+        System.out.println("Your balance is " +balance);
+    }
+
+public void payTuition(int payment){
+   balance=balance-payment;
+    System.out.println("Thank you for your payment for "+payment);
+   viewBalance();
+}
 
 }
